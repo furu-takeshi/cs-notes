@@ -13,7 +13,7 @@ Output Unit|Displays results to the user. (Monitor, Printer, Speaker)
 The CPU has three main components:
 * Arithmetic Logic Unit (ALU): Performs arithmetic operations (add, subtract) and logical operations (AND, OR, NOT).
 * Control Unit (CU): Directs and coordinates all operations within the computer system by fetching and decoding instructions.
-* Registers: Small, high-speed memory locations inside the CPU for temporary storage during processing.### 3. Memory Units
+* Registers: Small, high-speed memory locations inside the CPU for temporary storage during processing.
 
 ## Memory Units
 Type|Characteristics
